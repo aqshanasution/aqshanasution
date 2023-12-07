@@ -15,7 +15,6 @@
   <li> I’m currently doing at free time: <b>Design</b> or <b>Coding</b></li>
   <li> How old I am: <b>21 YO</b></li>
   <li> How to reach me:</li>
-  <br>
     <b>aqshanasution12976@gmail.com</b>
   <br>
     <b>instagram.com/axo0_0axo</b>
