@@ -4,5 +4,5 @@
   </a>
 </div>
 <div align="center">
-  <img width="720" height="auto" src="https://tenor.com/view/gojo-jujutsu-kaisen-gif-20575641">
+  <img width="720" height="auto" src="gojo-jujutsu-kaisen.gif">
 </div>
