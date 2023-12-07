@@ -17,6 +17,8 @@
   <li> How to reach me:</li>
   <br>
     <b>aqshanasution12976@gmail.com</b>
+  <br>
     <b>instagram.com/axo0_0axo</b>
+  <br>
     <b>https://www.linkedin.com/in/aqshanasution/</b>
 </ul>
