@@ -4,5 +4,5 @@
   </a>
 </div>
 <div align="center">
-  <img width="700" height="auto" src="gojo-jujutsu-kaisen.gif">
+  <img width="710" height="auto" src="gojo-jujutsu-kaisen.gif">
 </div>
