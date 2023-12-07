@@ -7,7 +7,7 @@
   <img width="710" height="auto" src="gojo-jujutsu-kaisen.gif">
 </div>
 <br>
-<h1 align="center" style="font-family="Poppins"">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
+<h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
 <ul>
   <li> 😎 My Name Is: <b>Aqsha Nasution</b></li>
