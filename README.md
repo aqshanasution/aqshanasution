@@ -1,1 +1,1 @@
-### <i class="fa-light fa-a"><span>QSHA NASUTION</span></i>
+### <i class="fa-solid fa-a"></i>
