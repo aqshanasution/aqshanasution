@@ -8,7 +8,7 @@
 </div>
 
 <br>
-<h1 align="center">**ABOUT ME**</h1>
+<h1 align="center">ＡＢＯＵＴ ＭＥ</h1>
 <ul>
   <li> 😎 My Name Is: <b>Aqsha Nasution</b></li>
   <li> 🙋‍♂️ I’m currently working on: <b>Freelance</b></li>
@@ -17,7 +17,7 @@
 </ul>
 
 <br>
-<h1 align="center">**KNOWLEDGE**</h1>
+<h1 align="center">ＫＮＯＷＬＥＤＧＥ</h1>
 <div align="center">
   <p align = "center">The software that I usually use<br></p>
   <p align = "center">
@@ -27,14 +27,6 @@
     <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Github" height="30" />  
     <img style="margin: 5px" src="https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white" alt="Google" height="30" />  
     <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white" alt="Azure" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Exchange-0078D4?style=flat-square&logo=Microsoft-Exchange&logoColor=white" alt="Exchange" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_OneDrive-0078D4?style=flat-square&logo=Microsoft-OneDrive&logoColor=white" alt="OneDrive" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white" alt="Outlook" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_SharePoint-038387?style=flat-square&logo=Microsoft-SharePoint&logoColor=white" alt="SharePoint" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat-square&logo=Microsoft-Teams&logoColor=white" alt="Teams" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" alt="PowerShell" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=flat-square&logo=Windows-Terminal&logoColor=white" alt="CommandPrompt" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" alt="Windows" height="30" />
   </p>
   <img src = "Add-ons/AS.gif" width = "460px" height="auto" align="center">
 </div>
