@@ -19,14 +19,15 @@
 <br>
 <h1 align="center">ＫＮＯＷＬＥＤＧＥ</h1>
 <div align="center">
-  <p align = "center">The software that I usually use<br></p>
-  <p align = "center">
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=Adobe-Creative-Cloud&logoColor=white" alt="Adobe Creative Cloud" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=black" alt="Android" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Apple-999999?style=flat-square&logo=Apple&logoColor=white" alt="Apple" height="30" />  
+  <p align="center">The software that I usually use<br></p>
+  <p align="center">
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=Blender&logoColor=white" alt="Blender" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white" alt="Photoshop" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white" alt="Adobe Illustrator" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white" alt="Premiere Pro" height="30" />  
     <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Github" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white" alt="Google" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white" alt="Azure" height="30" />  
   </p>
-  <img src = "Add-ons/AS.gif" width = "460px" height="auto" align="center">
+  <img src="Add-ons/AS.gif" width="460px" height="auto" align="center">
 </div>
+
