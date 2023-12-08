@@ -21,23 +21,24 @@
 <div align="center">
   <p align="center">The software and programming languages that I usually use<br></p>
   <p align="center">
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=Blender&logoColor=white" alt="Blender" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white" alt="Photoshop" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white" alt="Adobe Illustrator" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white" alt="Premiere Pro" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-HTML-239120?style=flat-square&logo=HTML5&logoColor=white" alt="HTML" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=white" alt="Golang" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white" alt="C#" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" height="30" />   
-    <img style="margin: 5px" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" alt="PHP" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Github" height="30" />  
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma" height="30" />  
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=Blender&logoColor=white" alt="Blender" height="30" />  
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white" alt="Photoshop" height="30" />  
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white" alt="Adobe Illustrator" height="30" />  
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white" alt="Premiere Pro" height="30" />  
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React" height="30" />  
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" height="30" />  
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-HTML-239120?style=flat-square&logo=HTML5&logoColor=white" alt="HTML" height="30" />  
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS" height="30" />  
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=white" alt="Golang" height="30" />  
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white" alt="C#" height="30" />  
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" height="30" />   
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" alt="PHP" height="30" />  
+    <img style="margin: 5px; border-radius: 8px;" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Github" height="30" />  
   </p>
   <img src="Add-ons/AS.gif" width="460px" height="auto" align="center">
 </div>
+
 
 
 
