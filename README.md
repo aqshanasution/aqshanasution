@@ -8,7 +8,7 @@
 </div>
 
 <br>
-<h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
+<h1 align="center">**ABOUT ME**</h1>
 <ul>
   <li> 😎 My Name Is: <b>Aqsha Nasution</b></li>
   <li> 🙋‍♂️ I’m currently working on: <b>Freelance</b></li>
@@ -17,7 +17,7 @@
 </ul>
 
 <br>
-<h1 align="center">KNOWLEDGE</h1>
+<h1 align="center">**KNOWLEDGE**</h1>
 <div align="center">
   <p align = "center">The software that I usually use<br></p>
   <p align = "center">
