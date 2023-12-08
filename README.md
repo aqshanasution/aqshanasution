@@ -33,9 +33,11 @@
     <img style="margin: 5px" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=white" alt="Golang" height="30" />  
     <img style="margin: 5px" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white" alt="C#" height="30" />  
     <img style="margin: 5px" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" height="30" />   
+    <img style="margin: 5px" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" alt="PHP" height="30" />  
     <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Github" height="30" />  
   </p>
   <img src="Add-ons/AS.gif" width="460px" height="auto" align="center">
 </div>
+
 
 
